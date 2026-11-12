@@ -30,7 +30,6 @@ Create an array and access its elements using pointer arithmetic.
 
 ## Technologies Used
 - C++
-- Visual Studio Code
 - Git and GitHub
 
 ## How to Run
